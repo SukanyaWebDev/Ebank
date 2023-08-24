@@ -1,0 +1,28 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: blue;
+}
+.navDiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.myImg {
+  height: 60px;
+  width: 60px;
+}
+.myDiv3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.myBu {
+  background-color: transparent;
+  border-color: antiquewhite;
+  color: antiquewhite;
+  font-weight: bold;
+  border-width: 1px;
+  border-style: solid;
+}

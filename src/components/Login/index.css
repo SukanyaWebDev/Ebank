@@ -1,0 +1,36 @@
+.myDiv {
+  height: 100vh;
+  background-color: #183b56;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  flex-direction: row;
+  background-size: cover;
+  color: #5a7184;
+}
+.dd {
+  background-color: #e0eefe;
+  height: 400px;
+  width: 400px;
+}
+.myButton {
+  background-color: #1565d8;
+  color: #ffffff;
+  margin-top: 20px;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 50%;
+}
+img {
+  height: 400px;
+  width: 400px;
+}
+form {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 30px;
+}
